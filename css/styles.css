@@ -43,11 +43,6 @@ a {
 }
 
 footer {
-  position: absolute;
-  top: 1143px;
-  left: 0;
-  right: 0;
-  z-index: 1;
   width: 100%;
   max-width: 960px;
   height: 150px;
@@ -179,14 +174,6 @@ ul {
     padding-bottom: 30px;
   }
 
-  footer {
-    top: 917px;
-    left: 0;
-    right: 0;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
   footer p {
     margin-top: 61px;
     margin-right: 2.7878787878%;
@@ -276,13 +263,6 @@ ul {
     margin-top: 30px;
   }
 
-  footer {
-    left: 0;
-    right: 0;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
   footer p {
     float: none;
     margin-right: auto;
@@ -342,13 +322,6 @@ ul {
 
   div img {
     height: auto;
-  }
-
-  footer {
-    left: 0;
-    right: 0;
-    margin-right: auto;
-    margin-left: auto;
   }
 
   footer p {
